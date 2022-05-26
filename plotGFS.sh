@@ -274,8 +274,7 @@ rm *ps
 # file for archive purposes.
 rm *.nc
 
-rsync /home/henno/gfs_forecast/case_studies/png/$date/*06* titan5@gaia:/home/titan5/gfs/
-#rsync /home/henno/gfs_forecast/case_studies/png/$date/*00* titan5@gaia:/home/titan5/gfs/
+rsync /home/
 
 echo "
 #######################################################################

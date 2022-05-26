@@ -1480,7 +1480,7 @@ Click city names to expand
 + Please note that SAWS is the only entity in South-Africa which can issue weather related warnings
 EOF
 
-rsync -azv * titan5@<ip>:/home/titan5/wrf
+rsync -azv * name@<ip>:/home/titan5/wrf
 #mv wrf.md ../
 
 exit 0

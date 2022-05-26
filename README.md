@@ -1,2 +1,2 @@
-# hello-world
-This is a test repository to teach myself some github best practices 
+# Bash Scripts
+Random bits and bobs of bash scripts to make my life easier
